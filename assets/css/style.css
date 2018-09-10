@@ -1149,7 +1149,7 @@ FAQ Page
 Video Section style
 ======================*/
 .video{
-    background: url(../images/background/video.jpg) no-repeat center center;
+    background: url(../images/background/header.jpg) no-repeat center center;
     background-size: cover;
     position: relative;
 }
