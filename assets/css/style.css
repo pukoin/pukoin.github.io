@@ -1632,7 +1632,13 @@ Maps Section style
 /*
 Contact Section style
 =====================*/
-
+.contact{
+    background: url(../images/background/contact.jpg) no-repeat center center;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+}
 .main_contact{
     overflow: hidden;
 }
