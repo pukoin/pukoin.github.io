@@ -399,21 +399,21 @@ Button
     border-radius: 0;
 }
 .btn-default:hover{
-    border-color:#ff6863;
-    background-color: #ff6863;
+    border-color:#007bff;
+    background-color: #007bff;
 }
 
 .btn-primary{
     color: #fff;
-    background-color: #ff6863;
+    background-color: #007bff;
     border:1px solid;
-    border-color: #ff6863;
+    border-color: #007bff;
     padding: 1rem 2rem;
 }
 .btn-primary:hover{
     background-color: #eee;
     border-color: #eee;
-    color:#ff6863;
+    color:#007bff;
 }
 
 .btn-success{}
